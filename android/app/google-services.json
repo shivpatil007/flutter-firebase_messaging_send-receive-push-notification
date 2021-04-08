@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "544141323288",
+    "project_id": "proa-d3bc3",
+    "storage_bucket": "proa-d3bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544141323288:android:3167e56c70c0bb38fc276d",
+        "android_client_info": {
+          "package_name": "com.example.proa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "544141323288-q5ndd53e0ijp8hip1lvuj9mmmv9lvq8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMrZV9ZVSk4pJHE2rsE3_Ly46pZdX99ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "544141323288-q5ndd53e0ijp8hip1lvuj9mmmv9lvq8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
